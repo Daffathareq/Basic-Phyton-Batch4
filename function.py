@@ -1,7 +1,8 @@
 def my_function():
     print("Halo Semua")
 
-# my_function()
+ 
+my_function()
 
 # function with parameter
 def halo(first_name,last_name):

@@ -10,6 +10,8 @@ for i in range(count):
 
     nama_pelanggan.append(nama)
     umur_pelanggan.append(umur)
+print(nama_pelanggan)
+print(umur_pelanggan)
 
 # print(nama_pelanggan)
 # print(umur_pelanggan)   
